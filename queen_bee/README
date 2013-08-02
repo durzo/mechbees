@@ -1,0 +1,4 @@
+put your multi-mechanize project dirs here.
+these files should exist in the queen bee AMI in /home/youruser/
+see http://testutils.org/multi-mechanize/#install-setup for more info
+they are called by multimech-run on ./bees attack -p <project>
